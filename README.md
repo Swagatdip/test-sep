@@ -1,1 +1,3 @@
-# test-sep
+PRINT(1+1)
+
+Prin()
